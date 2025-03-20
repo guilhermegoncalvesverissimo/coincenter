@@ -1,2 +1,2 @@
 print('Hello Git World')
-print('Alterado no VS CodE')
+print('Alterado no VS Code')
